@@ -1,6 +1,6 @@
 // LRF2D_thetaDock_MultiSegFitCOG_35cm.cpp' d=y15m9d29. released y15m10d09.
 // was'MAIN_chargeNav.cpp using Hough-Transform'a= Liu,JinYong. 2015-08-20.Fri. //changed names of some variables.
-
+// Use git test
 #include <boost/thread/mutex.hpp>
 #include <boost/bind.hpp>
 #include <opencv2/opencv.hpp>
